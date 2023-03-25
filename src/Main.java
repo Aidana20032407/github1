@@ -2,15 +2,15 @@ public class Main {
     public static void main(String[] args) {
         //System.out.println(var(4,5,7,9,8));
        // method(new int []{18,19,20},"Aidai", "Dilnaz", "Dasha");
-       String soz = "  I like java!!!";
-        System.out.println(soz.charAt(soz.length()-1));
-        System.out.println(soz.startsWith("I like"));
-        System.out.println(soz.contains("java"));
-        System.out.println(soz.replace("a",  "o"));
-        System.out.println(soz.substring(9,13).toUpperCase());
-        System.out.println(soz.substring(9,13).toLowerCase());
-        System.out.println(soz.length());
-        System.out.println(soz.trim());
+//       String soz = "  I like java!!!";
+//        System.out.println(soz.charAt(soz.length()-1));
+//        System.out.println(soz.startsWith("I like"));
+//        System.out.println(soz.contains("java"));
+//        System.out.println(soz.replace("a",  "o"));
+//        System.out.println(soz.substring(9,13).toUpperCase());
+//        System.out.println(soz.substring(9,13).toLowerCase());
+//        System.out.println(soz.length());
+//        System.out.println(soz.trim());
 
 
         //System.out.println(method("да"));
